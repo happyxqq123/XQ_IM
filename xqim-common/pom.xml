@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>com.xqim</groupId>
+        <artifactId>xqim</artifactId>
+        <version>1.0.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <modules>
+        <module>xqim-common-log</module>
+        <module>xqim-common-core</module>
+        <module>xqim-common-redis</module>
+        <module>xqim-common-seata</module>
+        <module>xqim-common-swagger</module>
+        <module>xqim-common-security</module>
+        <module>xqim-common-datascope</module>
+        <module>xqim-common-datasource</module>
+    </modules>
+
+    <artifactId>xqim-common</artifactId>
+    <packaging>pom</packaging>
+
+    <description>
+        xqim-common通用模块
+    </description>
+
+</project>

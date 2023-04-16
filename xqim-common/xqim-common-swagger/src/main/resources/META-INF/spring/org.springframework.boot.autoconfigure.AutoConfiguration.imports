@@ -1,0 +1,3 @@
+com.xqim.common.swagger.config.SwaggerAutoConfiguration
+com.xqim.common.swagger.config.SwaggerWebConfiguration
+com.xqim.common.swagger.config.SwaggerBeanPostProcessor

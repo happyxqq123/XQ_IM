@@ -1,0 +1,3 @@
+com.xqim.system.api.factory.RemoteUserFallbackFactory
+com.xqim.system.api.factory.RemoteLogFallbackFactory
+com.xqim.system.api.factory.RemoteFileFallbackFactory

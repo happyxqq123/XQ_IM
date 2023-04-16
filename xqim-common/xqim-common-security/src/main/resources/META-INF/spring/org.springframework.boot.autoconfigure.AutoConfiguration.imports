@@ -1,0 +1,5 @@
+com.xqim.common.security.config.WebMvcConfig
+com.xqim.common.security.service.TokenService
+com.xqim.common.security.aspect.PreAuthorizeAspect
+com.xqim.common.security.aspect.InnerAuthAspect
+com.xqim.common.security.handler.GlobalExceptionHandler

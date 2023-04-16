@@ -1,0 +1,2 @@
+com.xqim.common.log.service.AsyncLogService
+com.xqim.common.log.aspect.LogAspect
